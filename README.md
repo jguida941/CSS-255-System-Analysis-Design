@@ -1,5 +1,12 @@
 # CS-255 System Analysis & Design
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Course](https://img.shields.io/badge/Course-CS--255-0366d6)](#)
+[![Case Study](https://img.shields.io/badge/Case%20Study-DriverPass-7952b3)](#driverpass-case-study-overview)
+[![UML](https://img.shields.io/badge/UML-/uml-24292f)](./uml)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776ab)](#tools-and-versions)
+[![Plotly](https://img.shields.io/badge/Plotly-5.x-3f4f75)](#tools-and-versions)
+
 This repository contains my complete work for **CS-255 System Analysis & Design**.  
 It covers the full system design lifecycle, from requirements gathering through process and object modeling, to final integrated architecture, applied to the **DriverPass** case study and related assignments.
 
@@ -13,11 +20,9 @@ It covers the full system design lifecycle, from requirements gathering through 
   Detailed business requirements document for the DriverPass system.
 
 
-
 ### **Module 2 – Determining Requirements**
 - **2-2 Assignment Determining Requirements.docx**  
   Defines functional and non-functional requirements, user needs, and initial system scope.
-
 
 
 ### **Module 3 – Process Modeling**
@@ -31,7 +36,6 @@ It covers the full system design lifecycle, from requirements gathering through 
   - Test Administration
 
 
-
 ### **Module 4 – Object Modeling & Gantt Charts**
 - **4-1 Discussion Object Models and Gantt Charts.docx**  
   Compares object vs process models, plus my implementation of a Gantt chart generator using Python + Plotly.
@@ -39,13 +43,11 @@ It covers the full system design lifecycle, from requirements gathering through 
   Detailed evaluation of the DriverPass object model — strengths, weaknesses, and scalability concerns.
 
 
-
 ### **Module 5 – Functional, Structural, and Behavioral Models**
 - **5-1 Discussion Functional, Structural, and Behavioral Models.pages**  
   Covers different modeling approaches and how they relate to system design.
 - **5-2 Project One.zip**  
   Final integrated project deliverables — includes process and object models, diagrams, and supporting documentation.
-
 
 ## Skills & Tools Demonstrated
 - **Process Modeling** – Sequential workflows, decision points, and branching logic
@@ -64,11 +66,16 @@ It covers the full system design lifecycle, from requirements gathering through 
 5. A design that survives scaling, stress, and change
 
 
+## Credit / Usage
+This work is my original submission for **CS-255 System Analysis & Design** and is provided for educational and reference purposes.  
+If you use any part of it, please credit:
 
-## Notes
-This repo isn’t just “class assignments”, it’s a record of my **real system design workflow**.  
-Many of the methods shown here reflect the same strategies I use in advanced projects, such as my SIMD-accelerated primality testing platform that outperforms GMP and GMPY2.
+**Author:** Justin Guida  
+**GitHub:** [jguida941](https://github.com/jguida941)
 
+## License
+This repository is licensed under the **MIT License**, see the License file for details.  
+You are free to use, modify, and distribute this work, provided proper attribution is given.
 
 
 ## Next Steps for This Repo
